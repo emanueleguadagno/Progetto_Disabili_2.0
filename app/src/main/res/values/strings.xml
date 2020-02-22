@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Disability</string>
+    <string name="hint_USN">Nome Utente</string>
+    <string name="hint_psw">Password</string>
+    <string name="button_LogIn">Accedi</string>
+    <string name="textViewSupport_Registration">Non hai un account?</string>
+    <string name="textView_Registration">Registrati</string>
+    <string-array name="spinner_selection">
+        <item> </item>
+        <item>Operatore socio-sanitario</item>
+        <item>Persona</item>
+    </string-array>
+    <string name="textView_SelectionTypeRegistration">Vuoi registrarti come?</string>
+</resources>
